@@ -30501,9 +30501,14 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {font-size: 1.5rem; margin: -29px auto 21px 0} 
 @media (max-width: 1199px){ .u-header .u-menu-1 {margin-right: auto}
 .u-header .u-text-1 {margin-top: -29px} }
-
-@media (max-width: 767px){ .u-header .u-social-icons-1 {margin-right: auto} }
-
+@media (max-width: 991px){ .u-header .u-sheet-1 {min-height: 167px}
+.u-header .u-menu-1 {margin-top: 20px; margin-right: 0}
+.u-header .u-text-1 {width: auto; margin-top: -78px; margin-bottom: 60px} }
+@media (max-width: 767px){ .u-header .u-social-icons-1 {margin-right: auto}
+.u-header .u-text-1 {margin-top: -78px; margin-bottom: 21px} }
+@media (max-width: 575px){ .u-header .u-social-icons-1 {margin-top: 23px; margin-right: -11px}
+.u-header .u-menu-1 {width: auto; margin-top: 30px}
+.u-header .u-text-1 {margin-top: -88px; margin-bottom: 60px} }
  .u-footer .u-sheet-1 {min-height: 120px}
 .u-footer .u-social-icons-1 {height: 32px; min-height: 16px; width: 158px; min-width: 94px; white-space: nowrap; margin: 44px auto}
 .u-footer .u-icon-1 {height: 100%}

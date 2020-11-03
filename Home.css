@@ -7,13 +7,14 @@
 .u-section-1 .u-text-1 {margin-top: 69px}
 .u-section-1 .u-text-2 {margin-right: 219px} }
 
-@media (max-width: 991px){ .u-section-1 .u-text-2 {margin-right: 168px} }
+@media (max-width: 991px){ .u-section-1 .u-text-1 {width: auto; margin-top: 168px; margin-left: 105px}
+.u-section-1 .u-text-2 {width: auto; margin-right: 161px} }
 
-@media (max-width: 767px){ .u-section-1 .u-text-1 {font-size: 3.75rem}
-.u-section-1 .u-text-2 {margin-right: 126px} }
+@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-left: 79px; font-size: 3.75rem}
+.u-section-1 .u-text-2 {margin-right: 120px} }
 
-@media (max-width: 575px){ .u-section-1 .u-text-1 {font-size: 3rem}
-.u-section-1 .u-text-2 {margin-right: 79px} }.u-section-2 {background-image: url("images/GRA.jpg")}
+@media (max-width: 575px){ .u-section-1 .u-text-1 {margin-left: 50px; font-size: 3rem}
+.u-section-1 .u-text-2 {margin-right: 76px} }.u-section-2 {background-image: url("images/GRA.jpg")}
 .u-section-2 .u-sheet-1 {min-height: 500px}
 .u-section-2 .u-text-1 {margin: 323px 131px 0 auto}
 .u-section-2 .u-text-2 {margin: 11px 186px 59px auto}
